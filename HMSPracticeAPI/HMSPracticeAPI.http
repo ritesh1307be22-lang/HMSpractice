@@ -1,0 +1,6 @@
+@HMSPracticeAPI_HostAddress = http://localhost:5226
+
+GET {{HMSPracticeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
