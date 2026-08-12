@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HMSPracticeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab16e23c9f5e81d97d6b3b96511b474a75eb0adc")]
 [assembly: System.Reflection.AssemblyProductAttribute("HMSPracticeAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HMSPracticeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
